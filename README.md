@@ -5,7 +5,7 @@ organizations themselves — name, breed, age, sex, size, temperament flags,
 photos, adoption fee, and the rescue's contact details, adoption process and
 areas served. Searchable by species, postal-code radius, breed and trait.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1669+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
 
 ## Tools
 
@@ -178,7 +178,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1669+ data sources. The
+Both URLs reach the same gateway and the same 1679+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rescuegroups",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RescueGroups.org MCP — adoptable animals and the rescues/shelters that list",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-4dc7799b7ef28637a0a1686a2eddf5a1a6e1e615e035217e3920bd3279dd8b1e",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

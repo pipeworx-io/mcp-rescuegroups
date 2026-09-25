@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/rescuegroups",
   "title": "Rescuegroups",
   "description": "RescueGroups.org MCP — adoptable animals and the rescues/shelters that list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/rescuegroups",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-rescuegroups",
