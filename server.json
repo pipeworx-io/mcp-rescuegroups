@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/rescuegroups",
   "title": "Rescuegroups",
-  "description": "RescueGroups.org MCP — adoptable animals and the rescues/shelters that list",
-  "version": "0.1.2",
+  "description": "RescueGroups.org MCP — adoptable animals and the rescues/shelters that list them, from the…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/rescuegroups",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-rescuegroups",
