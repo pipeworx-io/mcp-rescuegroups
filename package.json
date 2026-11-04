@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rescuegroups",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "RescueGroups.org MCP — adoptable animals and the rescues/shelters that list them, from the RescueGroups.org v5 public API. (https://api.rescuegroups.org/v5/public/docs)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "rescuegroups",
     "gatewaySlug": "rescuegroups",
-    "sourceHash": "v1-cc9397aa21d0093bbbdf4317edb7bd225ca6597d29e1d0c17059eb2566366ed5",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-22b44874155f8b7dc267e5340db517e91e30abafcc277f2a088c56580c927182",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
